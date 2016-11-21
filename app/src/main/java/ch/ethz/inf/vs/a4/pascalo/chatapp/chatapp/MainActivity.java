@@ -28,6 +28,20 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         PreferenceManager.getDefaultSharedPreferences(this)
                 .registerOnSharedPreferenceChangeListener(this);
 
+
+        // TODO: set chats to list
+        // idea copy most of the code from sensor app
+
+        /*
+        SensorArrayAdapter<Sensor> array_adapter = new SensorArrayAdapter<Sensor>(this,
+                android.R.layout.simple_list_item_1,
+                sensors);
+
+        list_view.setAdapter(array_adapter);
+        */
+
+
+
     }
 
 

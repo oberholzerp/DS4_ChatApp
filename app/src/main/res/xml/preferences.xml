@@ -6,12 +6,12 @@
         android:title="@string/settings">
         <CheckBoxPreference
             android:defaultValue="true"
-            android:title="@string/sound_check_box"
+            android:title="@string/notification_sound_check_box"
             android:key="check_box_sound" />
 
         <CheckBoxPreference
             android:defaultValue="true"
-            android:title="@string/vibration_check_box"
+            android:title="@string/notification_vibration_check_box"
             android:key="check_box_vibration" />
     </PreferenceCategory>
 

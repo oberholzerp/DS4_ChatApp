@@ -30,6 +30,15 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
 
         // TODO: set chats to list
+            // store all chat partners (addressbook in a file) in order of most recent message
+                // addressbook, we need one in any case
+
+           // store chat messages per chat in a file named "cat_[chat partner name].???"
+                // a little overhead but I think it's a lot easier to store and find them even we
+                // have more overhead
+
+
+
         // idea copy most of the code from sensor app
 
         /*

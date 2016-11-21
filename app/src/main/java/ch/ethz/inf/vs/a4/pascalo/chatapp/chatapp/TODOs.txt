@@ -1,4 +1,5 @@
 1. Create MainActivity with clickable list of chats
+    OK - Pascal
 
 2. Order chats by most recent activity
 

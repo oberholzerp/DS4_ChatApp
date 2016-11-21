@@ -1,5 +1,5 @@
 1. Create MainActivity with clickable list of chats
-    OK - Pascal
+    OK - Pascal - 21.11.2016
 
 2. Order chats by most recent activity
 
@@ -8,6 +8,7 @@
 
 4. add overflow menu with "Preferences", "Show Key", "Add Chat", "Go Offline",
     "Open Network Configuration" (in MainActivity)
+    no function implemented - Pascal - 21.11.2016
 
 5. implement a service that handles message state, addressbook state, receiving messages
     including decryption and notification handling
